@@ -53,7 +53,7 @@ footnotereturnlinkcontents = "↩"
     
     
 [params]
-    description = "Statistics, Models, Travel and Life"
+    description = "Statistics, Models, and Life"
     footer = "&copy; [Qi Li](https://qili.site) 2018 | [Github](https://github.com/itsjustqi) | [Twitter](https://twitter.com/itsjustqi)"
 
    highlightjsVersion = "9.12.0"
