@@ -1,7 +1,6 @@
 ---
 title: Auto-weka issue
 author: Qi Li
-date: '2018-10-29'
 slug: auto-weka-issue
 categories: []
 tags: []
