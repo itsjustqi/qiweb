@@ -1,10 +1,11 @@
 ---
-title: "Auto-weka issue"
-author: "Qi Li"
-date: "29/10/2018"
-output: html_document
+title: Auto-weka issue
+author: Qi Li
+date: '2018-10-29'
+slug: auto-weka-issue
+categories: []
+tags: []
 ---
-
 When I running auto-weka to build models, an error was displayed as follows:
 ```
 ClassNotFoundException: [weka.core.WekaPackageLibIsolatingClassLoader (Auto-WEKA)] Unable to find class: javax.xml.bind.JAXBContext
