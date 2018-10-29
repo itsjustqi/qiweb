@@ -60,6 +60,3 @@ footnotereturnlinkcontents = "↩"
    highlightjsCDN = "//cdn.bootcss.com"
    highlightjsLang = ["r", "yaml", "tex"]
    highlightjsTheme = "github"
-   
-[frontmatter]
-  date: ['date', ':filename', ':default']
