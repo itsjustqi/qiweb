@@ -13,6 +13,7 @@ ClassNotFoundException: [weka.core.WekaPackageLibIsolatingClassLoader (Auto-WEKA
 According to this [solution](https://stackoverflow.com/questions/43574426/how-to-resolve-java-lang-noclassdeffounderror-javax-xml-bind-jaxbexception-in-j%EF%BC%89), this problem is probably casused by Java version as the relevant Java EE API modules have been removed in Java 11. This issue can be fixed out through the instruction in the above article. 
 
 The other way is to change Jave version from 11 to 8.
+
 1.Check Java version
 ```
 /usr/libexec/java_home -V
