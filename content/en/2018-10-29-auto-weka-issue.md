@@ -1,5 +1,5 @@
 ---
-title: Auto-weka issue
+title: Auto-weka issues
 author: Qi Li
 slug: auto-weka-issue
 date: 2018-10-29
@@ -14,13 +14,13 @@ According to this [solution](https://stackoverflow.com/questions/43574426/how-to
 
 The other way is to change Jave version from 11 to 8.
 
-1.Check Java version
+1.Check Java version in the terminal
 ```
 /usr/libexec/java_home -V
 ```
 
 It shows:
-```
+``` 
 Qis-Mac:libexec qili$ /usr/libexec/java_home -V
 Matching Java Virtual Machines (2):
     11.0.1, x86_64:	"Java SE 11.0.1"	/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home
