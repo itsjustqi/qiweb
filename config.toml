@@ -17,17 +17,13 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "关于"
-    url = "/cn/about.md"
-    weight = 2
-[[menu.main]]
     name = "博文"
     url = "/cn/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "English"
     url = "/en/"
-    weight = 5
+    weight = 3
 [[menu.main]]
     name = "杂七杂八"
     url = "/xx/"
