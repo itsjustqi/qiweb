@@ -18,7 +18,7 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 [[menu.main]]
     name = "关于"
-    url = "/cn/about/"
+    url = "/cn/about.md"
     weight = 2
 [[menu.main]]
     name = "博文"
