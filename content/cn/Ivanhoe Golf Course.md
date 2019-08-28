@@ -1,9 +1,9 @@
 ---
-title: "Golf at Ivanhoe Public Golf Course"
-author: "Qi Li"
-date: "8/28/2019"
-output: html_document
-tag: "golf"
+title: Golf at Ivanhoe Public Golf Course
+author: Qi Li
+date: 2019-08-28
+categories: []
+tags: [golf]
 ---
 
 早上8:40开球。
